@@ -4,5 +4,6 @@ attr_accessor :artist, :title  #Songs should have a title and belong to an artis
   def initialize
     @title = "title"
   end
-
 end
+#Output
+#song.artist.name  # => "Beyonce"
