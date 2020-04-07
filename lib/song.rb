@@ -2,7 +2,7 @@
 class Song
 attr_accessor :artist, :title  #Songs should have a title and belong to an artist.
   def initialize
-    @title = title
+    @title = "title"
   end
 
 end
