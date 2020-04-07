@@ -1,11 +1,6 @@
 class Post
 attr_accessor :author, :song
-def initialize
+  def initialize
   @title = "title"
-end
-end
-
-
-
-
+  end
 end
